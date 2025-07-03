@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Java SE, Java EE, Spring Boot, React, MySQL, Oracle**
 
-- 📫 How to reach me **brakeshroshan098@gmail.com**
+- 📫 How to reach me **chandanswain331@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rakesh-roshan77](https://www.linkedin.com/in/rakesh-roshan77)
+- 📄 Know about my experiences [https://www.linkedin.com/in/chandan-swain](https://www.linkedin.com/in/chandan-swain)
 
 - ⚡ Fun fact **I'm rarely coding alone — there’s always a friend, a bug, or both with me! 😄👨‍💻🪲**
 
